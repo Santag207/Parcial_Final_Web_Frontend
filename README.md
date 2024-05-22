@@ -2,7 +2,7 @@
 
 ## Santiago Castro Zuluaga 
 
-###(Readme realizado con Chat GPT)
+### (Readme realizado con Chat GPT)
 
 ## Descripcion
 Este proyecto es el frontend para el parcial final de desarrollo web. Consume la API REST del backend para la gestión de entidades.
