@@ -1,0 +1,44 @@
+h2 {
+    text-align: center;
+    color: #2196F3;
+    font-family: 'Arial', sans-serif;
+}
+
+.entity-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+}
+
+.entity-form label {
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.entity-form input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-create {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-create:hover {
+    background-color: #45a049;
+}
